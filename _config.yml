@@ -219,7 +219,7 @@ social:
   Weibo: http://weibo.com/xieduo2011
   豆瓣: http://douban.com/people/xieduo
   知乎: http://www.zhihu.com/people/jie-duo
-  email: xieduo@genomics.cn
+  #email: xieduo@genomics.cn
 
 
 # Social Links Icons
@@ -377,7 +377,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 812ae71cb2b7a53f051306b4c38ee577
+baidu_analytics:812ae71cb2b7a53f051306b4c38ee577
 
 # Duoshuo ShortName
 #duoshuo_shortname:
