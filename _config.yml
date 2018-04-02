@@ -5,16 +5,16 @@
 
 # Site
 title: Fly Bird
-subtitle:
+subtitle: Hello Friend
 description: Talk is cheap,show me your result.
-author: Mr.Why
+author: Duo Xie
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: "https://xieduo7.github.io/"
 baseurl:
 permalink: pretty
 
@@ -214,6 +214,12 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
+  GitHub: https://github.com/xieduo7
+ # Twitter: https://twitter.com/your-user-name
+  Weibo: http://weibo.com/xieduo2011
+  Douban: http://douban.com/people/xieduo
+  Zhihu: http://www.zhihu.com/people/jie-duo
+  email: xieduo@genomics.cn
 
 
 # Social Links Icons
@@ -371,7 +377,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 812ae71cb2b7a53f051306b4c38ee577
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -558,7 +564,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
