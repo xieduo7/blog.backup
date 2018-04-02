@@ -1,3 +1,11 @@
+---
+title: 中文測試
+date: 2018-04-01 23:31:30 +0800
+categories:
+- test/test
+tags:
+---
+
 ```
 >library(ggplot2)
 > library(gridExtra)
