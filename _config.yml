@@ -89,7 +89,7 @@ rss:
 since: 2018
 
 # icon between year and author @Footer
-authoricon: pencil-alt
+authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
