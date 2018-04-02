@@ -238,7 +238,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://github.com/xieduo7/evobird/blob/master/picture/yuri-shwedoff-core-i.png
+avatar: /assets/images/author.jpg
 
 # Table Of Contents in the Sidebar
 toc:
